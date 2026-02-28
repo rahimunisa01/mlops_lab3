@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+fastapi_lab1_env/
+model/iris_model.pkl
